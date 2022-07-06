@@ -20,6 +20,5 @@ npm run dev
 ```
 
 Open your local browser and verify the mernmemories is working by accessing:     
-`http://localhost:3000/clients/`   
-`http://localhost:3000/createclient/`   
-`http://localhost:3000/showclient/1/` 
+`http://localhost:3000/posts/`   
+ 
