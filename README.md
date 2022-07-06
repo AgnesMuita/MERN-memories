@@ -8,7 +8,7 @@ A social travel app where users can post their travelling experiences and memori
 
 ``` 
 //on local
-git clone https://github.com/agnesmuita/mern-memories
+git clone https://github.com/agnesmuita/MERN-memories
 cd client
 npm install
 npm start
