@@ -1,5 +1,5 @@
 # mernmemories
-A social travel app where users can post their travelling experiences.
+A social travel app where users can post their travelling experiences and memories
 
 
 ## Download & Build on local
